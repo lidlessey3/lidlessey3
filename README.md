@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lidlessey3
-- 👀 I’m a student of Computer Engeneering, Track Software Engineering
+- 👀 I’m a student of Computer Engeneering, Track Software Engineering at Politecnico di Torino.
+- 🇪🇺🇸🇪 Currently Douìing an Erasmus in Sweden.
 - 👀 I'm confident in C and C++
 
 <!---
